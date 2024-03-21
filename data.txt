@@ -1,0 +1,4 @@
+connection string
+      ||
+      \/
+mongodb+srv://Satmeet:satmeet@1@youtubecluster.rxcyuwo.mongodb.net/
